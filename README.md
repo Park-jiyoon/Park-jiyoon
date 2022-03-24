@@ -1,10 +1,8 @@
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park%20jiyoon👀&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park%20jiyoon👀&fontSize=90)
 
 
-<div align=center> 
-
-
+<div align=center>  
 
 ### Technology Stack 💻 
 
@@ -16,8 +14,11 @@
 
 ### etc.... 🐼
 
-<a href="https://www.instagram.com/diyoony/" target="_blank"><img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
+<a href="https://www.instagram.com/diyoony/" target="_blank"><img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a> <a href="bbpgy1995@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=#EA4335"/></a> 
+<a href="bbpgy@naver/" target="_blank"><img src="https://img.shields.io/badge/Naver-white?style=flat-square&logo=Naver&logoColor=#03C75A"/></a> 
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPark-jiyoon&count_bg=%238D9BF0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  </div>
+
+ </div>
