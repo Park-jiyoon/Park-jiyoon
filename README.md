@@ -12,7 +12,7 @@
 
 
 
-### etc.... 🐼
+### Me 🐼
 
 <a href="https://www.instagram.com/diyoony/" target="_blank"><img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a> <a href="bbpgy1995@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=#EA4335"/></a> 
 <a href="bbpgy@naver/" target="_blank"><img src="https://img.shields.io/badge/Naver-white?style=flat-square&logo=Naver&logoColor=#03C75A"/></a> 
