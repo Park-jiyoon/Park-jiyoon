@@ -15,7 +15,7 @@
 ### Me 🐼
 
 <a href="https://www.instagram.com/diyoony/" target="_blank"><img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a> <a href="bbpgy1995@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=#EA4335"/></a> 
-<a href="bbpgy@naver/" target="_blank"><img src="https://img.shields.io/badge/Naver-white?style=flat-square&logo=Naver&logoColor=#03C75A"/></a> 
+<a href="bbpgy@naver.com/" target="_blank"><img src="https://img.shields.io/badge/Naver-white?style=flat-square&logo=Naver&logoColor=#03C75A"/></a> 
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPark-jiyoon&count_bg=%23D8BBE9&title_bg=%23948D8D&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
